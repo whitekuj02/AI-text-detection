@@ -49,6 +49,7 @@
 - ./kobigbird_925 : vaiv/kobigbird-roberta-large code
 - ./koelectra_924 : monologg/koelectra-base-v3-discriminator code
 - ./roberta-large_929 : klue/roberta-large code 
+- ./ensemble.ipynb : 최종 앙상블 csv 제작 코드
 
 ## 모델 출처
 - [rtzr/ko-gemma-2-9b-it](https://huggingface.co/rtzr/ko-gemma-2-9b-it)
