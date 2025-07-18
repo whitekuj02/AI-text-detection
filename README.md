@@ -16,7 +16,7 @@
 | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/94896197?v=4" width=300> | <img src="https://avatars.githubusercontent.com/u/105128163?v=4" width=300> | <img src="https://avatars.githubusercontent.com/u/105360496?v=4" width=300> |
 
-## 실험 환경
+# 실험 환경
 
 - NVIDIA GeForce RTX 3090
 - CUDA Version: 12.5
@@ -35,7 +35,7 @@
 - scikit-learn 1.5.1
 - peft 0.14.0
 
-## pipeline
+# pipeline
 
 - Data pipeline
 ![data_pipeline](./image/data_pipeline.png)
@@ -43,7 +43,7 @@
 - Model pipeline
 ![model_pipeline](./image/model_pipeline.png)
 
-## code
+# code
 - ./EDA.ipynb : data EDA code
 - ./aug_data : Data pipeline code
 - ./environment : conda 가상환경 yaml, txt 및 pip requirement.txt
@@ -52,7 +52,7 @@
 - ./roberta-large_929 : klue/roberta-large code 
 - ./ensemble.ipynb : 최종 앙상블 csv 제작 코드
 
-## 모델 출처
+# 모델 출처
 - [rtzr/ko-gemma-2-9b-it](https://huggingface.co/rtzr/ko-gemma-2-9b-it)
 - [vaiv/kobigbird-roberta-large](https://huggingface.co/vaiv/kobigbird-roberta-large)
 - [monologg/koelectra-base-v3-discriminator](https://huggingface.co/monologg/koelectra-base-v3-discriminator)
