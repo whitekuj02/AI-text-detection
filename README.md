@@ -44,6 +44,7 @@
 ![model_pipeline](./image/model_pipeline.png)
 
 ## code
+- ./EDA.ipynb : data EDA code
 - ./aug_data : Data pipeline code
 - ./environment : conda 가상환경 yaml, txt 및 pip requirement.txt
 - ./kobigbird_925 : vaiv/kobigbird-roberta-large code
