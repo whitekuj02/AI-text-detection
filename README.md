@@ -11,8 +11,6 @@
 
 ## 21 원정대
 
-<div align="center">
-
 | 김의진 | 장희진 | 정승민 |
 | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/94896197?v=4" width=300> | <img src="https://avatars.githubusercontent.com/u/105128163?v=4" width=300> | <img src="https://avatars.githubusercontent.com/u/105360496?v=4" width=300> |
