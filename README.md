@@ -47,9 +47,10 @@
 - ./EDA.ipynb : data EDA code
 - ./aug_data : Data pipeline code
 - ./environment : conda 가상환경 yaml, txt 및 pip requirement.txt
-- ./kobigbird_925 : vaiv/kobigbird-roberta-large code
-- ./koelectra_924 : monologg/koelectra-base-v3-discriminator code
-- ./roberta-large_929 : klue/roberta-large code 
+- ./kobigbird_925 : vaiv/kobigbird-roberta-large code and ckpt
+- ./koelectra_924 : monologg/koelectra-base-v3-discriminator code and ckpt
+- ./roberta-large_929 : klue/roberta-large code and ckpt
+- ./labeling_ckpt : pseudo labeling 용 ckpt 
 - ./ensemble.ipynb : 최종 앙상블 csv 제작 코드
 
 # 모델 출처
