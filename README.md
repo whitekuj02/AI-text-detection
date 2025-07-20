@@ -18,22 +18,23 @@
 
 # 실험 환경
 
-- NVIDIA GeForce RTX 3090
-- CUDA Version: 12.5
-- Ubuntu 22.04.5
-- python 3.11.4
+- NVIDIA GeForce RTX 4090
+- CUDA Version: 12.6
+- Ubuntu 24.04.2 LTS
+- python 3.12.10
 
 ## 라이브러리
 
 자세한 라이브러리는 ./environment 참고
 
 ### 주요 라이브러리
-- torch 2.5.1
-- transformers 4.46.3
-- torchvision 0.20.1
-- torchaudio 2.5.1
-- scikit-learn 1.5.1
-- peft 0.14.0
+- torch 2.7.1
+- transformers 4.53.2
+- torchvision 0.22.1
+- torchaudio 2.7.1
+- scikit-learn 1.7.1
+- peft 0.16.0
+- accelerate 1.9.0
 
 # pipeline
 
